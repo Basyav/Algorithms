@@ -18,7 +18,7 @@ public class Binary
 	
 	public static void main( String[] args )
     {
-        int[] a = {2,4,5,9,18,19,21,45};
+        int[] a = {2,4,5,9,18,19,21,45,3};
     	System.out.println(binarySearch(a, 4, a.length));
     }
 }
